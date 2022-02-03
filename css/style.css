@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.po {
+  position: relative;
+  left: 100px;
+}
+
+.slider-nav {
+  width: 960px;
+  height: 200px;
+}
+
+.text {
+  border: 1px solid black;
+  padding: 50px;
+}
